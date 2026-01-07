@@ -12,3 +12,7 @@ Dual-framework (PyTorch + TensorFlow) 2-layer MLP achieving **97.6% accuracy** o
 pip install -r requirements.txt
 python pytorch_demo.py    # PyTorch version
 python tensorflow_demo.py # TensorFlow version
+
+## Results
+**PyTorch**: 97.5% accuracy
+**TensorFlow**: 97.6% accuracy

@@ -2,6 +2,7 @@
 # File Name: mnist_tensorflow.py
 # Author: Emily Au
 
+# Dependencies
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
